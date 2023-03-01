@@ -1,2 +1,2 @@
-Project title : Fee-Management 
+       Project title : Fee Management System
 Technologies : C++ and Qt Creator
