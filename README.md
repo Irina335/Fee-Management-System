@@ -1,1 +1,2 @@
-# Fee-Management-in-C-
+Project title : Fee-Management 
+Technologies : C++ and Qt Creator
